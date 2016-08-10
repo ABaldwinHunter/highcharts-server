@@ -11,4 +11,4 @@ ratings:
   paths:
   - "**.js"
 exclude_paths:
-- scripts/data.js
+- "scripts/data.js"
